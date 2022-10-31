@@ -1,0 +1,1 @@
+/usr/bin/c++   -O3 -std=c++14 -Wall   CMakeFiles/main.dir/src/check.cpp.o CMakeFiles/main.dir/src/ConvexMpcSolver.cpp.o  -o main  -Wl,-rpath,/usr/local/lib -lpthread /usr/local/lib/libOsqpEigen.so.0.7.0 /usr/lib/x86_64-linux-gnu/libspdlog.so.1.5.0 /usr/local/lib/libosqp.so -lpthread 
