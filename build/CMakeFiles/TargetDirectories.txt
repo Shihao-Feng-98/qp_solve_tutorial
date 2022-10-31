@@ -1,3 +1,0 @@
-/home/feng_shihao/fsh_file/QP_solve_tutorial/build/CMakeFiles/rebuild_cache.dir
-/home/feng_shihao/fsh_file/QP_solve_tutorial/build/CMakeFiles/edit_cache.dir
-/home/feng_shihao/fsh_file/QP_solve_tutorial/build/CMakeFiles/main.dir

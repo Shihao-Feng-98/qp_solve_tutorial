@@ -1,1 +1,0 @@
-/usr/bin/c++   -O3 -std=c++14 -Wall -g   CMakeFiles/main.dir/src/QP_solve.cpp.o CMakeFiles/main.dir/src/balance_qp_solver.cpp.o  -o main   -L/opt/openrobots/lib  -Wl,-rpath,/opt/openrobots/lib:/usr/local/lib -lpthread /usr/local/lib/libOsqpEigen.so.0.7.0 /usr/local/lib/libosqp.so 
